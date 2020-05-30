@@ -73,37 +73,55 @@ section {
   visibility: visible;
   transform: scaleX(1);
 }
-  #ziabs-main{
-    background-color: #f6f6f6;
-    color:#001c32;
-  }
-  .main-heading {
-    text-align: center;
-    padding-bottom: 15px;
-  }
-  .main-heading h2 {
-    font-size: 32px;
-    font-weight: bold;
-    text-transform: uppercase;
-    /* margin-bottom: 10px; */
-  }
-  .experience{
-    background-color: #ffffff;
-    border-color: #ffffff;
-    box-shadow: 0px 0 25px rgba(0, 28, 50, 0.1);
-  }
-  .badge-ziabs{
-    color: #f6f6f6;
-    background-color: #1aaede;
-    margin: 0 6px;
-    border-radius: 0;
-  }
-  .work-details h5{
-    margin-left: 2px;
-  }
-  .work-details p{
-    margin: 0 2px;
-  }
+
+.ziabs-pages{
+  padding-top: 10px;
+}
+.ziabs-btn-er {
+  background: #ff6000;
+  border-radius: 0;
+  width: 66px;
+  color: #fff;
+  text-align: center;
+}
+
+.ziabs-btn-blog {
+  background: #1aaede;
+  border-radius: 0;
+  color: #fff;
+  text-align: center;
+}
+#ziabs-main{
+  background-color: #f6f6f6;
+  color:#001c32;
+}
+.main-heading {
+  text-align: center;
+  padding-bottom: 15px;
+}
+.main-heading h2 {
+  font-size: 32px;
+  font-weight: bold;
+  text-transform: uppercase;
+  /* margin-bottom: 10px; */
+}
+.experience{
+  background-color: #ffffff;
+  border-color: #ffffff;
+  box-shadow: 0px 0 25px rgba(0, 28, 50, 0.1);
+}
+.badge-ziabs{
+  color: #f6f6f6;
+  background-color: #1aaede;
+  margin: 0 6px;
+  border-radius: 0;
+}
+.work-details h5{
+  margin-left: 2px;
+}
+.work-details p{
+  margin: 0 2px;
+}
 /* ------------------------------------------------------------------------------------- */
 .footer-bottom {
     border-top: 1px solid #d90000;
