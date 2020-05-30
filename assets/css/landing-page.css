@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Play&display=swap');
+
 body {
     font-family: 'Play', sans-serif;
     background-color: #001c32;
@@ -121,6 +122,14 @@ section {
 }
 .work-details p{
   margin: 0 2px;
+}
+.ziabs-blog-logo {
+  left: 0;
+  right: 0;
+  display: flex;
+  position: absolute;
+  justify-content: center;
+  align-items: center;
 }
 #ziabs-notes a {
   color: #001c32;
