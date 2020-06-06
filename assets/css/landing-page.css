@@ -104,7 +104,6 @@ section {
   font-size: 32px;
   font-weight: bold;
   text-transform: uppercase;
-  /* margin-bottom: 10px; */
 }
 .experience{
   background-color: #ffffff;
@@ -140,6 +139,15 @@ section {
 }
 .ziabs-btn{
   border-radius: 0;
+}
+.ziabs-code{
+  text-align: start !important;
+  background-color:#001c32;
+  color: #f6f6f6;
+  font-size:86%;
+  border-radius:.2rem;
+  padding:.2rem .4rem;
+  margin-bottom: 1%;
 }
 /* ------------------------------------------------------------------------------------- */
 .footer-bottom {
