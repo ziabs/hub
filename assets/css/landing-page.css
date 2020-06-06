@@ -96,6 +96,10 @@ section {
   background-color: #f6f6f6;
   color:#001c32;
 }
+#ziabs-blog-home{
+  background-color: #001c32;
+  background: url("../img/bg.png");
+}
 .main-heading {
   text-align: center;
   padding-bottom: 15px;
