@@ -144,12 +144,15 @@ section {
 .ziabs-btn{
   border-radius: 0;
 }
+.kbd{
+  border-radius:0;
+}
 .ziabs-code{
   text-align: start !important;
   background-color:#001c32;
   color: #f6f6f6;
   font-size:86%;
-  border-radius:.2rem;
+  border-radius:0;
   padding:.2rem .4rem;
   margin-bottom: 1%;
 }
