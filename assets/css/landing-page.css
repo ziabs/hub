@@ -147,15 +147,6 @@ section {
 .kbd{
   border-radius:0;
 }
-.ziabs-code{
-  text-align: start !important;
-  background-color:#001c32;
-  color: #f6f6f6;
-  font-size:86%;
-  border-radius:0;
-  padding:.2rem .4rem;
-  margin-bottom: 1%;
-}
 /* ------------------------------------------------------------------------------------- */
 .footer-bottom {
     border-top: 1px solid #d90000;
