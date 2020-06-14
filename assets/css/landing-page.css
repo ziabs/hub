@@ -144,8 +144,12 @@ section {
 .ziabs-btn{
   border-radius: 0;
 }
-kbd, .badge{
+kbd, .badge, .button{
   border-radius: 0;
+}
+.ziabs-link{
+  color: #1aaede !important;
+  text-decoration: underline !important;
 }
 /* ------------------------------------------------------------------------------------- */
 .footer-bottom {
