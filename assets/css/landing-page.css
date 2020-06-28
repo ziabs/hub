@@ -104,7 +104,7 @@ section {
   text-align: center;
   padding-bottom: 15px;
 }
-.main-heading h2 {
+.main-heading h1 {
   font-size: 32px;
   font-weight: bold;
   text-transform: uppercase;
@@ -150,6 +150,9 @@ kbd, .badge, .button .card{
 .ziabs-link{
   color: #1aaede !important;
   text-decoration: underline !important;
+}
+.ziabs-h1{
+  font-size: 1.5rem;
 }
 /* ------------------------------------------------------------------------------------- */
 .footer-bottom {
