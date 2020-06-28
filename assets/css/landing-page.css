@@ -11,13 +11,10 @@ body {
       transition-delay: 0 !important;
     }
   }
-/* Section */
 section {
   padding: 42px 0;
   overflow: hidden;
 }
-
-/* ziAbs main page section */
 .a{
   color: #1aaede;
 }
@@ -144,7 +141,7 @@ section {
 .ziabs-btn{
   border-radius: 0;
 }
-kbd, .badge, .button, .card{
+kbd, .badge, .button, .card, .pagination-sm .page-item:first-child .page-link, .pagination-sm .page-item:last-child .page-link{
   border-radius: 0 !important;
 }
 .ziabs-link{
@@ -154,7 +151,6 @@ kbd, .badge, .button, .card{
 .ziabs-h1{
   font-size: 1.5rem;
 }
-/* ------------------------------------------------------------------------------------- */
 .footer-bottom {
     border-top: 1px solid #d90000;
     z-index: 2;
