@@ -144,7 +144,7 @@ section {
 .ziabs-btn{
   border-radius: 0;
 }
-kbd, .badge, .button{
+kbd, .badge, .button .card{
   border-radius: 0;
 }
 .ziabs-link{
