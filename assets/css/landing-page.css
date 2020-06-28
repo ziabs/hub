@@ -144,8 +144,8 @@ section {
 .ziabs-btn{
   border-radius: 0;
 }
-kbd, .badge, .button .card{
-  border-radius: 0;
+kbd, .badge, .button, .card{
+  border-radius: 0 !important;
 }
 .ziabs-link{
   color: #1aaede !important;
