@@ -141,7 +141,7 @@ section {
 .ziabs-btn{
   border-radius: 0;
 }
-kbd, .badge, .button, .card, .pagination-sm .page-item:first-child .page-link, .pagination-sm .page-item:last-child .page-link{
+kbd, .badge, .button, .card, .pagination-sm .page-item:first-child .page-link, .pagination-sm .page-item:last-child .page-link,.alert{
   border-radius: 0 !important;
 }
 .ziabs-link{
@@ -151,6 +151,12 @@ kbd, .badge, .button, .card, .pagination-sm .page-item:first-child .page-link, .
 }
 .ziabs-h1{
   font-size: 1.5rem;
+}
+.ziabs-callout{
+  border-right-width:0 !important;
+  border-bottom-width:0 !important;
+  border-top-width:0 !important;
+  border-left-width:medium !important;
 }
 .footer-bottom {
     border-top: 1px solid #d90000;
