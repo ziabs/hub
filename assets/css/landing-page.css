@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Play&display=swap');
+@import url('../font/play.min.css?family=Play&display=swap');
 
 body {
     font-family: 'Play', sans-serif;
@@ -140,6 +140,9 @@ section {
 }
 .ziabs-btn{
   border-radius: 0;
+}
+#ziabs-notes h2, #ziabs-notes h3, #ziabs-notes h4, #ziabs-notes h5, #ziabs-notes h6{
+  text-align: initial !important;
 }
 kbd, .badge, .button, .card, .pagination-sm .page-item:first-child .page-link, .pagination-sm .page-item:last-child .page-link,.alert{
   border-radius: 0 !important;
