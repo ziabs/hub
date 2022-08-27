@@ -175,6 +175,6 @@ kbd, .badge, .button, .card, .pagination-sm .page-item:first-child .page-link, .
 }
 .ziabs-bulletin {
   background-color: #001c32 !important;
-  border: 1px solid #ffec00 !important;
+  border: 1px solid #ffec00;
   color: #ffffff !important;
 }
