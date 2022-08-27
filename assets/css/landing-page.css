@@ -178,3 +178,6 @@ kbd, .badge, .button, .card, .pagination-sm .page-item:first-child .page-link, .
   border: 1px solid #ffec00;
   color: #ffffff !important;
 }
+#ziabs-blog-home #ziabs-notes h4 {
+  color: #ffffff;
+}
