@@ -127,9 +127,10 @@ section {
   left: 0;
   right: 0;
   display: flex;
-  position: absolute;
   justify-content: center;
   align-items: center;
+  position:sticky; 
+  background-color:#001c32;
 }
 #ziabs-notes a {
   color: #001c32;
