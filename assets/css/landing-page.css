@@ -12,7 +12,6 @@ body {
     }
   }
 section {
-  padding: 42px 0;
   overflow: hidden;
 }
 .a{
@@ -132,6 +131,10 @@ section {
   position:sticky; 
   background-color:#001c32;
 }
+#ziabs-notes {
+  padding-top: 8%;
+  padding-bottom: 1%;
+}
 #ziabs-notes a {
   color: #001c32;
 }
@@ -182,6 +185,6 @@ kbd, .badge, .button, .card, .pagination-sm .page-item:first-child .page-link, .
 #ziabs-blog-home #ziabs-notes h4 {
   color: #ffffff;
 }
-.fixed-top {
-  padding: 0;
+.sticky-top {
+  background-color: #001c32;
 }
