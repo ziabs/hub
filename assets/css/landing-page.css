@@ -14,9 +14,6 @@ body {
 section {
   overflow: hidden;
 }
-.a{
-  color: #1aaede;
-}
 #ziabs {
     width: 100%;
     height: 100vh;
@@ -187,4 +184,10 @@ kbd, .badge, .button, .card, .pagination-sm .page-item:first-child .page-link, .
 }
 .sticky-top {
   background-color: #001c32;
+}
+a.nav-link {
+  color: #ffffff;
+}
+a.nav-link:hover {
+  color: #1aaede;
 }
